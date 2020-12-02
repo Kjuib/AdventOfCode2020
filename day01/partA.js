@@ -1,6 +1,7 @@
 const util = require('../util');
 
-const filePath = './inputA.txt';
+// const filePath = './inputTest.txt';
+const filePath = './input.txt';
 
 function main() {
     const input = util.loadInput(filePath, { isIntegers: true });
