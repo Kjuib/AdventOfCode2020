@@ -32,5 +32,3 @@ function main() {
 }
 
 main();
-
-// 413 too low
