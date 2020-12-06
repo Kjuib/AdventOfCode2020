@@ -15,7 +15,7 @@ function loadInput(filePath) {
 }
 
 function main() {
-    const input = loadInput(filePath, { isGrid: true });
+    const input = loadInput(filePath);
 
     const isValid = _.map(input, (passport) => {
         return (
